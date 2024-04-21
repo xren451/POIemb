@@ -1,0 +1,26 @@
+{
+    "geo": {
+        "including_types": ["Point"],
+        "Point": {
+            "poi_name": "other"
+        }
+    },
+    "usr": {
+        "properties": {
+        }
+    },
+    "dyna": {
+        "including_types": ["trajectory"],
+        "trajectory": {
+            "entity_id": "usr_id",
+            "location": "geo_id",
+            "text": "other"
+        }
+    },
+    "info": {
+        "distance_upper": 30.0,
+        "geo_file": "instagram",
+        "dyna_file": "instagram",
+        "usr_file": "instagram"
+    }
+}
